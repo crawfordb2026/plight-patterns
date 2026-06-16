@@ -1,0 +1,18 @@
+# Python dependencies for flyght-patterns TTD analysis pipeline
+# Install with: pip install -r requirements.txt
+
+# Core data processing
+pandas>=1.5.0
+numpy>=1.20.0
+
+# Statistical / ML
+scipy>=1.7.0
+scikit-learn>=1.1.0   # RandomForestRegressor, StratifiedGroupKFold
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# AWS S3 sync (Python/AWS/s3_sync.py)
+boto3>=1.26.0
+python-dotenv>=1.0.0
