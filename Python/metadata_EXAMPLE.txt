@@ -1,0 +1,137 @@
+#
+# this is an EXAMPLE metadata file -- if you want this program to work do the following:
+# 1. place metadata in here in the same format
+# 2. rename this file (metadata_EXAMPLE.txt) to metadata.txt
+#
+#
+# note: In the Monitor column below, 51_06_20_25 means monitor 51, load date 06_60_25
+#
+Monitor	Channel	Genotype Sex Treatment
+51_06_20_25  ch1 Iso Female VEH 
+51_06_20_25  ch2 Iso Female 2mM Arg
+51_06_20_25  ch3 Iso Female 8mM Arg  
+51_06_20_25  ch4 Fmn Female VEH
+51_06_20_25  ch5 Fmn Female 2mM Arg
+51_06_20_25  ch6 Fmn Female 8mM Arg  
+51_06_20_25  ch7 Rye Female VEH
+51_06_20_25  ch8 Rye Female 2mM Arg 
+51_06_20_25  ch9 Rye Female 8mM Arg
+51_06_20_25  ch10 na na na
+51_06_20_25  ch11 na na na
+51_06_20_25  ch12 na na na
+51_06_20_25  ch13 SSS Female VEH
+51_06_20_25  ch14 SSS Female 8mM Arg
+51_06_20_25  ch15 Iso Female VEH
+51_06_20_25  ch16 Iso Female 2mM Arg
+51_06_20_25  ch17 Iso Female 8mM Arg
+51_06_20_25  ch18 Fmn Female VEH
+51_06_20_25  ch19 Fmn Female 2mM Arg
+51_06_20_25  ch20 Fmn Female 8mM Arg
+51_06_20_25  ch21 Rye Female VEH
+51_06_20_25  ch22 Rye Female 2mM Arg
+51_06_20_25  ch23 Rye Female 8mM Arg 
+51_06_20_25  ch24 na na na
+51_06_20_25  ch25 na na na
+51_06_20_25  ch26 na na na
+51_06_20_25  ch27 Iso Female VEH 
+51_06_20_25  ch28 Iso Female 2mM Arg
+51_06_20_25  ch29 Iso Female 8mM Arg
+51_06_20_25  ch30 Fmn Female VEH
+51_06_20_25  ch31 Fmn Female 2mM Arg
+51_06_20_25  ch32 Fmn Female 8mM Arg
+52_06_20_25  ch1 Iso Female VEH 
+52_06_20_25  ch2 Iso Female 2mM Arg
+52_06_20_25  ch3 Iso Female 8mM Arg  
+52_06_20_25  ch4 Fmn Female VEH
+52_06_20_25  ch5 Fmn Female 2mM Arg
+52_06_20_25  ch6 Fmn Female 8mM Arg  
+52_06_20_25  ch7 Rye Female VEH
+52_06_20_25  ch8 Rye Female 2mM Arg 
+52_06_20_25  ch9 Rye Female 8mM Arg
+52_06_20_25  ch10 na na na
+52_06_20_25  ch11 na na na
+52_06_20_25  ch12 na na na 
+52_06_20_25  ch13 SSS Female VEH
+52_06_20_25  ch14 SSS Female 8mM Arg
+52_06_20_25  ch15 Iso Female VEH
+52_06_20_25  ch16 Iso Female 2mM Arg
+52_06_20_25  ch17 Iso Female 8mM Arg
+52_06_20_25  ch18 Fmn Female VEH
+52_06_20_25  ch19 Fmn Female 2mM Arg
+52_06_20_25  ch20 Fmn Female 8mM Arg
+52_06_20_25  ch21 Rye Female VEH
+52_06_20_25  ch22 Rye Female 2mM Arg
+52_06_20_25  ch23 Rye Female 8mM Arg 
+52_06_20_25  ch24 na na na
+52_06_20_25  ch25 na na na
+52_06_20_25  ch26 na na na
+52_06_20_25  ch27 Iso Female VEH 
+52_06_20_25  ch28 Iso Female 2mM Arg
+52_06_20_25  ch29 Iso Female 8mM Arg
+52_06_20_25  ch30 Fmn Female VEH
+52_06_20_25  ch31 Fmn Female 2mM Arg
+52_06_20_25  ch32 Fmn Female 8mM Arg
+53_06_20_25  ch1 Iso Female VEH 
+53_06_20_25  ch2 Iso Female 2mM Arg
+53_06_20_25  ch3 Iso Female 8mM Arg  
+53_06_20_25  ch4 Fmn Female VEH
+53_06_20_25  ch5 Fmn Female 2mM Arg
+53_06_20_25  ch6 Fmn Female 8mM Arg  
+53_06_20_25  ch7 Rye Female VEH
+53_06_20_25  ch8 Rye Female 2mM Arg 
+53_06_20_25  ch9 Rye Female 8mM Arg
+53_06_20_25  ch10 na na na
+53_06_20_25  ch11 na na na
+53_06_20_25  ch12 na na na 
+53_06_20_25  ch13 SSS Female VEH
+53_06_20_25  ch14 SSS Female 8mM Arg
+53_06_20_25  ch15 Iso Female VEH
+53_06_20_25  ch16 Iso Female 2mM Arg
+53_06_20_25  ch17 Iso Female 8mM Arg
+53_06_20_25  ch18 Fmn Female VEH
+53_06_20_25  ch19 Fmn Female 2mM Arg
+53_06_20_25  ch20 Fmn Female 8mM Arg
+53_06_20_25  ch21 Rye Female VEH
+53_06_20_25  ch22 Rye Female 2mM Arg
+53_06_20_25  ch23 Rye Female 8mM Arg 
+53_06_20_25  ch24 na na na
+53_06_20_25  ch25 na na na
+53_06_20_25  ch26 na na na
+53_06_20_25  ch27 Rye Female VEH
+53_06_20_25  ch28 Rye Female 2mM Arg
+53_06_20_25  ch29 Rye Female 8mM Arg
+53_06_20_25  ch30 na na na
+53_06_20_25  ch31 na na na
+53_06_20_25  ch32 na na na
+54_06_20_25  ch1 Iso Female VEH 
+54_06_20_25  ch2 Iso Female 2mM Arg
+54_06_20_25  ch3 Iso Female 8mM Arg  
+54_06_20_25  ch4 Fmn Female VEH
+54_06_20_25  ch5 Fmn Female 2mM Arg
+54_06_20_25  ch6 Fmn Female 8mM Arg  
+54_06_20_25  ch7 Rye Female VEH
+54_06_20_25  ch8 Rye Female 2mM Arg 
+54_06_20_25  ch9 Rye Female 8mM Arg
+54_06_20_25  ch10 na na na
+54_06_20_25  ch11 na na na
+54_06_20_25  ch12 na na na 
+54_06_20_25  ch13 SSS Female VEH
+54_06_20_25  ch14 SSS Female 8mM Arg
+54_06_20_25  ch15 Iso Female VEH
+54_06_20_25  ch16 Iso Female 2mM Arg
+54_06_20_25  ch17 Iso Female 8mM Arg
+54_06_20_25  ch18 Fmn Female VEH
+54_06_20_25  ch19 Fmn Female 2mM Arg
+54_06_20_25  ch20 Fmn Female 8mM Arg
+54_06_20_25  ch21 Rye Female VEH
+54_06_20_25  ch22 Rye Female 2mM Arg
+54_06_20_25  ch23 Rye Female 8mM Arg 
+54_06_20_25  ch24 na na na
+54_06_20_25  ch25 na na na
+54_06_20_25  ch26 na na na
+54_06_20_25  ch27 Rye Female VEH
+54_06_20_25  ch28 Rye Female 2mM Arg
+54_06_20_25  ch29 Rye Female 8mM Arg
+54_06_20_25  ch30 na na na
+54_06_20_25  ch31 na na na
+54_06_20_25  ch32 na na na
